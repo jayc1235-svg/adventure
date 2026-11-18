@@ -1,3 +1,4 @@
+
 by: Jayden Cruz
 
 ## path-1
@@ -46,7 +47,7 @@ An old man opens the door just a crack.
 
 "The tower door is locked, and the only key went down with my boat when she sank off the south beach. If you want that light lit, the key is in the wreck."
 
-[Travel to the south beach](#south-beach)
+[Travel to the south beach](#pie)
 
 [Return to the village](#path-1)
 
