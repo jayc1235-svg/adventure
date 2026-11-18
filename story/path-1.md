@@ -50,6 +50,8 @@ An old man opens the door just a crack.
 
 [Return to the village](#path-1)
 
+[Ignore the warning and return home](#ending-dark)
+
 ## south-beach
 
 The waves roll across the sand. Pieces of an old wooden boat are scattered along the shore.
